@@ -1,0 +1,8 @@
+{"restaurants":[
+{"name":"Pizzeria El Bahdja","phone":"0555 12 34 56","wilaya":"Alger","commune":"Bab Ezzouar"},
+{"restaurant_name":"Chez Karim","telephone":"0666123456","wilaya":"Chlef","city":"Ténès"},
+{"name":"Le Corail","mobile":"+213 (0) 777-12-34-56","wilaya":"Oran","city":"Arzew"},
+{"name":"Doublon Grill","phone":"0555123456","wilaya":"Alger"},
+{"name":"Fixe Tlemcen","phone":"043 27 11 22","wilaya":"Tlemcen"},
+{"name":"Numéro cassé","phone":"05551","wilaya":"Blida"},
+{"phone":"0770998877","wilaya":"Sétif"},{"name":"Sans téléphone","wilaya":"Annaba"},null,"garbage"]}
